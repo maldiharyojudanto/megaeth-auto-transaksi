@@ -1,5 +1,8 @@
 # megaeth-auto-transaksi
 
+![Screenshot_29](https://github.com/user-attachments/assets/87a25dd4-9324-483d-834c-aff2eb5c2510)
+![Screenshot_31](https://github.com/user-attachments/assets/4699241a-8a88-4b54-9dda-870d0cd196c0)
+
 # Features
 - Auto mint cUSD, tkUSDC, tkETH, tkWBTC
 - Auto swap cUSD, tkUSDC, tkETH, tkWBTC to ETH on GTE
@@ -16,6 +19,7 @@
   > npm install
 
   > node index
+  
   > node rainmakr_main (new terminal)
 - Done
 

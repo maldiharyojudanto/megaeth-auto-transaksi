@@ -1,0 +1,7 @@
+Requirement : Node js or bun
+Using testnet wallet! not real asset!
+
+1. Fill private key ETH the pkey.txt with format 0x123123123123xxxxxx each line
+2. Use command "npm install"
+3. Use command "node index" or "bun index" to run MegaETH auto transaction for Minting, GTE Swap, and Teko Finance
+3. Use command "node rainmakr_main" or "bun rainmakr_main" to run MegaETH auto transaction for rainmakr AI swap MEGA ETH and rainmakr Pump swap MEGA ETH
